@@ -1,6 +1,6 @@
 # acot-reporter-null
 
-A null reporter for @acot/cli.
+A null reporter for [acot](https://github.com/acot-a11y/acot).
 
 ## Installation
 
